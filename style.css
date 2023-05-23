@@ -1,0 +1,29 @@
+body {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+}
+
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+    right: 5%;
+    bottom: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    padding: 0.5em;
+    
+}
+
+.robo {
+    width: 30%;
+    padding: 2em 0 0 40em;
+}
+
+figcaption {
+    text-align: center;
+}
